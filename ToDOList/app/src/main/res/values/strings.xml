@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fast notes</string>
+    <string name="fastNotes">Fast notes!</string>
+    <string name="deletetext">hold to delete</string>
+</resources>
